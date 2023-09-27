@@ -1,0 +1,36 @@
+_repo: Confessions-of-a-book-lover_71667
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Kernahan, Coulson
+    alias: Kernahan, John Coulson
+    birthdate: 1858
+    deathdate: 1943
+    gutenberg_agent_id: '46475'
+    url: http://www.gutenberg.org/2009/agents/46475
+    wikipedia: https://en.wikipedia.org/wiki/Coulson_Kernahan
+creator:
+  author:
+    agent_name: Walters, E. Walter
+    gutenberg_agent_id: '56320'
+    url: http://www.gutenberg.org/2009/agents/56320
+description: ''
+gutenberg_issued: '2023-09-17'
+identifiers:
+  gutenberg: '71667'
+language: en
+pgterms:marc904: https://archive.org/details/confessionsofboo00walt/page/n5/mode/2up
+pgterms:marc905: 20201014135822walters
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: Laura Natal and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bCharles H. Kelly, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Confessions of a book-lover
+url: http://www.gutenberg.org/ebooks/71667
